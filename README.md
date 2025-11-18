@@ -1,148 +1,27 @@
-# 👋 Welcome to Iqbal's GitHub! (@Ballon14)
+# 💫 About Me:
+Mahasiswa Aktif Prodi Teknologi Informasi<br>Universitas Muhammadiyah Purworejo
 
-<div align="center">
-  
-  ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Iqbal%20(@Ballon14)&fontSize=90&animation=fadeIn)
 
-  [![Visits Badge](https://badges.pufler.dev/visits/Ballon14/Ballon14)](https://github.com/Ballon14)
-  [![Repos Badge](https://badges.pufler.dev/repos/Ballon14)](https://github.com/Ballon14?tab=repositories)
-  [![GitHub followers](https://img.shields.io/github/followers/Ballon14?style=social)](https://github.com/Ballon14?tab=followers)
-  
-</div>
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iqbaldev.site@gmail.com) 
 
-## 🧙‍♂️ About Me
-
-```javascript
-const iqbal = {
-  location: "Indonesia",
-  role: "Developer & Tech Enthusiast",
-  code: ["JavaScript", "Python", "Java", "HTML/CSS"],
-  tools: ["React", "Node.js", "Docker", "AWS"],
-  interests: ["Web Development", "AI", "Open Source", "UI/UX"],
-  currentlyLearning: "Advanced Machine Learning",
-  funFact: "I can solve a Rubik's cube in under 2 minutes!"
-};
-```
-
-## 📊 My GitHub Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Ballon14&show_icons=true&theme=radical" alt="Iqbal's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ballon14&theme=radical" alt="Iqbal's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ballon14&layout=compact&theme=radical" alt="Iqbal's Top Languages" />
-  
-</div>
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ballon14&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ballon14&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ballon14&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ballon14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=Ballon14&theme=onedark&row=1&column=6)
-  
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📌 Pinned Repositories
-
-<div align="center">
-  
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ballon14&repo=awesome-project&theme=radical)](https://github.com/Ballon14/awesome-project)
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ballon14&repo=cool-application&theme=radical)](https://github.com/Ballon14/cool-application)
-  
-</div>
-
-## 🎮 Let's Play a Game!
-
-<details>
-<summary>🎲 Click to play Rock Paper Scissors!</summary>
-<br>
-
-# Rock Paper Scissors Game
-
-Choose your move by clicking one of the links below:
-
-<a href="https://github.com/Ballon14#game-result-rock">🪨 Rock</a> | <a href="https://github.com/Ballon14#game-result-paper">📄 Paper</a> | <a href="https://github.com/Ballon14#game-result-scissors">✂️ Scissors</a>
-
-<div id="game-result-rock">
-  <h3>You chose Rock!</h3>
-  <p>Computer chose Scissors.</p>
-  <h2>You win! 🎉</h2>
-  <a href="https://github.com/Ballon14#">Play Again</a>
-</div>
-
-<div id="game-result-paper">
-  <h3>You chose Paper!</h3>
-  <p>Computer chose Rock.</p>
-  <h2>You win! 🎉</h2>
-  <a href="https://github.com/Ballon14#">Play Again</a>
-</div>
-
-<div id="game-result-scissors">
-  <h3>You chose Scissors!</h3>
-  <p>Computer chose Paper.</p>
-  <h2>You win! 🎉</h2>
-  <a href="https://github.com/Ballon14#">Play Again</a>
-</div>
-
-</details>
-
-<details>
-<summary>🎯 Click to play Guess the Number!</summary>
-<br>
-
-# Guess the Number Game
-
-I'm thinking of a number between 1 and 10. Can you guess it?
-
-<a href="https://github.com/Ballon14#guess-1">1</a> | 
-<a href="https://github.com/Ballon14#guess-2">2</a> | 
-<a href="https://github.com/Ballon14#guess-3">3</a> | 
-<a href="https://github.com/Ballon14#guess-4">4</a> | 
-<a href="https://github.com/Ballon14#guess-5">5</a> | 
-<a href="https://github.com/Ballon14#guess-6">6</a> | 
-<a href="https://github.com/Ballon14#guess-7">7</a> | 
-<a href="https://github.com/Ballon14#guess-8">8</a> | 
-<a href="https://github.com/Ballon14#guess-9">9</a> | 
-<a href="https://github.com/Ballon14#guess-10">10</a>
-
-<div id="guess-7">
-  <h3>You guessed 7!</h3>
-  <h2>🎊 Correct! That's the number I was thinking of! 🎊</h2>
-  <a href="https://github.com/Ballon14#">Play Again</a>
-</div>
-
-</details>
-
-## 📫 Connect With Me
-
-<div align="center">
-  
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iqbal)
-  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iqbal)
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iqbal)
-  [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iqbal@example.com)
-  
-</div>
-
-## 📈 Contribution Graph
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Ballon14&theme=react-dark)
-
-## 🎵 Currently Listening To
-
-<div align="center">
-  
-  ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=iqbal&cover_image=true&theme=default)
-  
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ballon14&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Ballon14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
-</div>
-
-<!-- Snake animation -->
-![Snake animation](https://github.com/Ballon14/Ballon14/blob/output/github-contribution-grid-snake.svg)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
