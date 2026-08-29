@@ -1,8 +1,10 @@
-# 👨‍💻 Muhammad Iqbal
+# 👋 Hi, I'm Muhammad Iqbal
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+DevOps+Engineer;Mobile+Application+Developer;System+Administrator;Open+Source+Enthusiast)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+DevOps+Engineer;Mobile+Application+Developer;Linux+System+Administrator;Open+Source+Enthusiast)](https://git.io/typing-svg)
+
+**Full Stack Developer & Cloud/DevOps Engineer** based in Purworejo, Central Java, Indonesia 🇮🇩
 
 </div>
 
@@ -18,15 +20,17 @@
 
 ## 🚀 About Me
 
+On GitHub my bio literally reads **"Programmer Mumet"** 😅 (roughly: *"the programmer whose head is spinning"*) — which is a pretty honest summary of juggling full-stack apps, home servers, and side projects at the same time. I'm an IT student who turns small everyday annoyances into scripts, dashboards, or self-hosted services, and I currently maintain 50+ public repositories on GitHub.
+
 ```typescript
 const iqbal = {
-    location: "Purworejo, Central Java, Indonesia",
+    location: "Purworejo, Central Java, Indonesia 🇮🇩",
     education: "Information Technology @ Universitas Muhammadiyah Purworejo",
-    currentFocus: ["Full Stack Development", "Cloud Infrastructure", "DevOps"],
-    learning: ["Kubernetes", "Microservices", "System Design"],
+    role: ["Full Stack Developer", "Cloud & DevOps Engineer", "Mobile App Developer"],
+    currentlyLearning: ["Kubernetes", "Microservices", "System Design"],
     interests: ["Web Development", "Mobile Apps", "Server Administration", "Automation"],
-    goals2025: "Contribute to impactful Open Source Projects",
-    funFact: "I automate everything that takes more than 5 minutes ⚡"
+    currentGoal: "Ship more real-world projects and start contributing to open source",
+    funFact: "I automate anything that takes more than 5 minutes ⚡"
 };
 ```
 
@@ -176,14 +180,14 @@ const iqbal = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ballon14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ballon14&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
-  
+
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Ballon14&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
@@ -193,6 +197,8 @@ const iqbal = {
 [![Iqbal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ballon14&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)](https://github.com/Ballon14)
 
 </div>
+
+> 💡 These widgets are served from free community instances (Vercel), so they can occasionally load slowly or hit rate limits — that's normal for these tools, not a broken profile.
 
 ---
 
@@ -210,10 +216,15 @@ const iqbal = {
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ballon14&repo=your-project-1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Ballon14/your-project-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ballon14&repo=your-project-2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Ballon14/your-project-2)
+[![animelist](https://github-readme-stats.vercel.app/api/pin/?username=Ballon14&repo=animelist&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Ballon14/animelist)
+[![alarmbuka](https://github-readme-stats.vercel.app/api/pin/?username=Ballon14&repo=alarmbuka&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Ballon14/alarmbuka)
 
 </div>
+
+- **[animelist](https://github.com/Ballon14/animelist)** — An anime-tracking web app built with Next.js, Prisma, and Tailwind CSS, deployed on Vercel. [Live demo →](https://animelist-mauve.vercel.app)
+- **[alarmbuka](https://github.com/Ballon14/alarmbuka)** — A lightweight browser-based iftar (*buka puasa*) reminder built with vanilla HTML, CSS, and JS. [Live demo →](https://alarmbuka.vercel.app)
+
+*Have a favorite project of mine you'd like pinned here instead? Swap the `repo=` value above for any of my [54+ repositories](https://github.com/Ballon14?tab=repositories).*
 
 ---
 
@@ -306,6 +317,6 @@ Saya terbuka untuk berkolaborasi pada proyek-proyek yang melibatkan:
 
 ⭐️ From [Ballon14](https://github.com/Ballon14)
 
-*Last Updated: January 2025*
+*Last Updated: August 2026*
 
 </div>
