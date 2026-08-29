@@ -122,11 +122,27 @@ const iqbal = {
 
 </div>
 
-### 🖥️ Server & System Administration
+### 🖥️ Virtualization
 
 <div align="center">
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+
+</div>
+
+### 🌐 Networking
+
+<div align="center">
+
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![TP-Link](https://img.shields.io/badge/TP--Link-4ACBD6?style=for-the-badge&logo=tplink&logoColor=white)
+
+</div>
+
+### 🖥️ Server & System Administration
+
+<div align="center">
+
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -250,6 +266,7 @@ DevOps & System Administration:
   - Linux server administration (Ubuntu, Debian)
   - Virtualization with Proxmox
   - Web server configuration (Nginx, Apache)
+  - Network configuration & routing (MikroTik RouterOS, TP-Link)
 
 Mobile Development:
   - Cross-platform apps with Flutter
