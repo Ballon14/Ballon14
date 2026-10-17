@@ -197,20 +197,22 @@ const iqbal = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ballon14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ballon14&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ballon14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ballon14&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Ballon14&theme=tokyonight&hide_border=true&background=0D1117)
+<img src="https://streak-stats.demolab.com/?user=Ballon14&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-[![Iqbal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ballon14&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)](https://github.com/Ballon14)
+<a href="https://github.com/Ballon14">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ballon14&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&custom_title=Iqbal%27s%20Contribution%20Graph" alt="Iqbal's Activity Graph"/>
+</a>
 
 </div>
 
@@ -222,7 +224,7 @@ const iqbal = {
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ballon14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
+<img src="https://github-profile-trophy.vercel.app/?username=Ballon14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -303,7 +305,7 @@ Saya terbuka untuk berkolaborasi pada proyek-proyek yang melibatkan:
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
 </div>
 
@@ -313,7 +315,7 @@ Saya terbuka untuk berkolaborasi pada proyek-proyek yang melibatkan:
 
 <div align="center">
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Ballon14&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ballon14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&show=reviews,discussions_started,discussions_answered&hide=contribs&cache_seconds=86400" alt="Contribution Stats"/>
 
 </div>
 
@@ -328,12 +330,12 @@ Saya terbuka untuk berkolaborasi pada proyek-proyek yang melibatkan:
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Ballon14&icon=6&color=6)
+<img src="https://komarev.com/ghpvc/?username=Ballon14&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Visitor Count"/>
 
 **"First, solve the problem. Then, write the code." – John Johnson**
 
 ⭐️ From [Ballon14](https://github.com/Ballon14)
 
-*Last Updated: August 2026*
+*Last Updated: October 2026*
 
 </div>
